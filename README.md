@@ -1,8 +1,8 @@
 # 👋`Hello World!`
-
+- Tech Analyst @ ProcDNA
 - 📚 Currently Learning **DeepLearning**
-- 📍 CSE Undergrad **@NIT Surat**
-- 🏁 New to the code race, but ready to outpace!
+- 📍 CSE @ **@NIT Surat**
+
 
 ## 🌏Connect:
 
